@@ -1,0 +1,3 @@
+base:
+  '*':
+    - afserver-formula/minion
